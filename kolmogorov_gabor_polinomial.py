@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 
-class KolmogorovGaborPolynomial:
+class EIKolmagorovGaborPolynomial:
     """
     A class to construct the Kolmogorov-Gabor polynomial model.
 
